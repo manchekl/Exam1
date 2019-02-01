@@ -79,7 +79,7 @@ def test_draw_a_picture():
 #       :type window: rg.RoseWindow
 #     """
 # -------------------------------------------------------------------------
-#  TODO: 1. Implement and test the draw_a_picture function.
+#  DONE: 1. Implement and test the draw_a_picture function.
 #           Tests have been written for you (above in main).
 #  We suggest breaking this into multiple commits.
 #     Can you show the right circle?
